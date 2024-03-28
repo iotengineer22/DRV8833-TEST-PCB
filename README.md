@@ -1,5 +1,6 @@
-# DRV8833-TEST-PCB
+# PCB-DRV8833-TEST
 DRV8833-PCB-KiCad-DATA
-![overview](https://github.com/iotengineer22/PCB-KV260-PMOD-TEST/blob/main/imgs/pcb_image.jpg)
+![no-parts](https://github.com/iotengineer22/PCB-DRV8833-TEST/blob/main/imgs/drv8833-pcb-no-parts.jpg)
+![overview](https://github.com/iotengineer22/PCB-DRV8833-TEST/blob/main/imgs/drv8833-pcb.jpg)
 # DEMO
-![led_test](https://github.com/iotengineer22/PCB-KV260-PMOD-TEST/blob/main/imgs/kv260-led-test.gif)
+![dc_test](https://github.com/iotengineer22/PCB-DRV8833-TEST/blob/main/imgs/drv8833-test.gif)
