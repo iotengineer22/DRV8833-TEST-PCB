@@ -1,0 +1,17 @@
+### Footprint positions - created on Wed Feb 14 05:57:04 2024 ###
+### Printed by KiCad version 7.0.10
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                                                   PosX       PosY       Rot  Side
+C1        2.2u                 C_0603_1608Metric                                                     125.7300   -66.2940    0.0000  top
+C2        10u                  C_0603_1608Metric                                                     124.9680   -59.6900    0.0000  top
+C3        0.1u                 C_0603_1608Metric                                                     125.7300   -68.5930  -90.0000  top
+J1        Conn_02x06_Odd_Even  PinHeader_2x06_P2.54mm_Horizontal                                     134.6200   -58.4200    0.0000  top
+J2        Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical                                       101.8540   -58.6740    0.0000  top
+J3        Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical                                       101.8540   -70.8660  180.0000  top
+J4        Conn_01x02_Pin       PinHeader_1x02_P2.54mm_Vertical                                       117.5512   -57.4294  -90.0000  top
+R1        10k                  R_0603_1608Metric                                                     114.8080   -62.2300   90.0000  top
+R2        200m                 R_0603_1608Metric                                                     109.7280   -71.1200  180.0000  top
+R3        200m                 R_0603_1608Metric                                                     109.7910   -66.0400  180.0000  top
+U1        DRV8833PWP           HTSSOP-16-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask2.46x2.31mm_ThermalVias   117.5900   -68.3500    0.0000  top
+## End
